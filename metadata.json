@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HSK Buddy – Luyện Tiếng Trung từ Cơ Bản đến Nâng Cao",
+  "description": "Ứng dụng học Tiếng Trung toàn diện: tra cứu, dịch Việt ↔ Trung (kèm pinyin), từ vựng theo cấp HSK1–HSK6, hội thoại mẫu có pinyin + nghĩa Việt, luyện phát âm & kiểm tra nhanh.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
